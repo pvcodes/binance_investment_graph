@@ -7,7 +7,7 @@ A project based on <b>Python's <i>matplotlib</i> library</b> for <i>realtime wal
 - Clone the repository `git clone https://github.com/pvcodes/binance_investment_graph/`
 - Install on dependencies using `pip install -r requirments.txt`
 - Create a `.env` file on the same folder, (Optional: by using `mv -r .env-sample .env`)
-- Open `.env` file add your `api_key` and `api_secret`
+- Open `.env` file add your `API_KEY` and `API_SECRET`
 - Run `main.py`
 
 <br>
@@ -26,4 +26,4 @@ A project based on <b>Python's <i>matplotlib</i> library</b> for <i>realtime wal
 </samp>
 
 
-        #### Wandering why all the repos are forked from <b>[pvcodes-zz](https://github.com/pvcodes-zz)</b>. Read [here](https://github.com/pvcodes/github-repo-cloner#where-did-the-idea-came-from)
+ #### Wandering why all the repos are forked from <b>[pvcodes-zz](https://github.com/pvcodes-zz)</b>. Read [here](https://github.com/pvcodes/github-repo-cloner#where-did-the-idea-came-from)

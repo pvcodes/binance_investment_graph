@@ -15,6 +15,9 @@ load_dotenv()
 # logging in to the acc using API key n secret
 client = Client(os.getenv('API_KEY'), os.getenv('API_SECRET'))
 
+if client:
+    print('Logged in...')
+
 
 # Extracting my assests, i.e., my crpyto I have
 
