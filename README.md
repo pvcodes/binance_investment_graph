@@ -12,10 +12,7 @@ A project based on <b>Python's <i>matplotlib</i> library</b> for <i>realtime wal
 
 <br>
 
-<figure class="video_container">
-   <!-- <source src="https://user-images.githubusercontent.com/54075838/120930493-11ac3c00-c70b-11eb-8929-e7ffdf13614e.mp4" type="video/mp4"> -->
-   <iframe src=https://user-images.githubusercontent.com/54075838/120930493-11ac3c00-c70b-11eb-8929-e7ffdf13614e.mp4  allowfullscreen=true frameborder=0> </iframe>
-</figure>
+<a href="https://user-images.githubusercontent.com/54075838/120930493-11ac3c00-c70b-11eb-8929-e7ffdf13614e.mp4" title="Binanc Investment Graph"><img src="https://imgur.com/a/zDhvpdk" alt="Screenshot of Graph" /></a>
 
 <br>
 <samp>
